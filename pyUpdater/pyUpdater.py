@@ -72,9 +72,9 @@ class pyUpdater:
             self.config = json.load(f)
 
     def init_transfer(self):
-        self.tr.server = "www.stdout.it"
-        self.tr.username = "root"
-        self.tr.password = ""
+        self.tr.server = self.config['transfer']['server']
+        self.tr.username = self.config['transfer']['username']
+        self.tr.password = self.config['transfer']['password']
     
     def createTmpDir(self):
         self.tmpdir = td.mkdtemp()
