@@ -74,11 +74,3 @@ class Transfer:
         except (SSHException, socket.error) as se:
             print(se)
             ssh.close()
-
-
-# Transfer()
-# tr.server = "10.121.255.3"
-# tr.username = "root"
-# tr.password = "temporale"
-# tr.send("/home/mbrunet/tmp/backup1.tar.gz", path.join("/tmp/", "backup1.tar.gz"))
-# tr.get(path.join("/tmp/", "backup1.tar.gz"), "/home/mbrunet/backup1.tar.gz")
