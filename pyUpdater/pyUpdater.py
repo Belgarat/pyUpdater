@@ -57,6 +57,7 @@ class pyUpdater:
         self.version = "0.1"
         self.configdir = "/opt/pyUpdater"
         self.configfile = "conf/pyUpdater.json"
+        self.configCustomFile = ""
         self.verbose = verbose
         self.loadConfig()
         logging.basicConfig(filename=self.config['logfile'], level=self.config['loglevel'], format=self.config['logformat'])
@@ -68,8 +69,17 @@ class pyUpdater:
         self.init_transfer()
 
     def loadConfig(self):
-        with open(self.configdir + '/' + self.configfile, 'r') as f:
-            self.config = json.load(f)
+        print(self.configCustomFile)
+        if(self.configCustomFile == ""):
+            with open(self.configdir + '/' + self.configfile, 'r') as f:
+                self.config = json.load(f)
+        else:
+            with open(self.configCustomFile, 'r') as f:
+                self.config = json.load(f)
+
+    def setConfigFile(self, path):
+        self.configCustomFile = path
+        self.loadConfig()
 
     def init_transfer(self):
         self.tr.server = self.config['transfer']['server']
@@ -257,52 +267,61 @@ class pyUpdater:
 
 
 def main(argv):
-    unixoptions = "htubrvds"
-    gnuoptions = ["help", "verbose", "update", "backup", "restore", "dump", "restore-dump", "test"]
+    unixoptions = "c:htubrvds"
+    gnuoptions = ["help", "verbose", "update", "backup", "restore", "dump", "restore-dump", "test", "config"]
     verbose = False
+    configFile = ""
     if '-v' in argv:
         verbose = True
     if '--verbose' in argv:
         verbose = True
+
+    upd = pyUpdater(verbose)
+    action = ""
+
     try:
         opts, args = getopt.getopt(argv, unixoptions, gnuoptions)
     except getopt.GetoptError:
-        print ('-h, --help          print this help message')
-        print ('-u, --update        update code')
-        print ('-b, --backup        backup code')
-        print ('-r, --restore       restore code from backup')
-        print ('-d, --dump          dump database')
-        print ('-s, --restore-dump  restore database from dump')
+        print('-h, --help          print this help message')
+        print('-u, --update        update code')
+        print('-b, --backup        backup code')
+        print('-r, --restore       restore code from backup')
+        print('-d, --dump          dump database')
+        print('-s, --restore-dump  restore database from dump')
+        print('-c, --config        specified another config file')
         sys.exit(2)
 
     for opt, arg in opts:
         if opt == '-h' or opt == "--help":
-            print ('-h, --help          print this help message')
-            print ('-u, --update        update code')
-            print ('-b, --backup        backup code')
-            print ('-r, --restore       restore code from backup')
-            print ('-d, --dump          dump database')
-            print ('-s, --restore-dump  restore database from dump')
+            print('-h, --help          print this help message')
+            print('-u, --update        update code')
+            print('-b, --backup        backup code')
+            print('-r, --restore       restore code from backup')
+            print('-d, --dump          dump database')
+            print('-s, --restore-dump  restore database from dump')
+            print('-c, --config        specified another config file')
             sys.exit()
-
+        elif opt in ("-c", "--config"):
+            if os.access(os.path.join(arg), os.R_OK):
+                upd.setConfigFile(arg)
+            else:
+                print(bcolors.FAIL + '[fail]' + bcolors.ENDC, os.path.join(arg) +
+                      ' is not readable or not exist.')
+                sys.exit(2)
         elif opt in ("-u", "--update"):
-            upd = pyUpdater(verbose)
-            upd.update()
+            action = "update"
         elif opt in ("-b", "--backup"):
-            upd = pyUpdater(verbose)
-            upd.backup()
+            action = "backup"
         elif opt in ("-r", "--restore"):
-            upd = pyUpdater(verbose)
-            upd.restore()
+            action = "restore"
         elif opt in ("-d", "--dump"):
-            upd = pyUpdater(verbose)
-            upd.dump()
+            action = "dump"
         elif opt in ("-s", "--restore-dump"):
-            upd = pyUpdater(verbose)
-            upd.restoredump()
+            action = "restoredump"
         elif opt in ("-t", "--test"):
-            upd = pyUpdater(verbose)
-            upd.test()
+            action = "test"
+
+    getattr(upd, action)()
 
 
 if __name__ == "__main__":
