@@ -13,6 +13,12 @@
 
 	ln -s /opt/pyUpdater/pyUpdater.py pyUpdater
 
+6. Copy or rename example config file to:
+   
+    mv conf/pyUpdater.json.example conf/pyUpdater.json
+   
+   and customize configuration file
+
 5. Launch test command:
 
 	pyUpdater -t
