@@ -10,5 +10,10 @@
   "db_host": "localhost",
   "db_user": "root",
   "db_pass": "123456",
-  "db_name": "tkmanager"
+  "db_name": "tkmanager",
+  "transfer": {
+    "server": "www.stdout.it",
+    "username": "root",
+    "password": ""
+  }
 }
