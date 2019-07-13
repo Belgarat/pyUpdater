@@ -23,3 +23,16 @@
 
 	pyUpdater -t
 
+# Info
+
+-h, --help          print this help message
+-u, --update        update code
+-b, --backup        backup code
+-r, --restore       restore code from backup
+-d, --dump          dump database
+-s, --restore-dump  restore database from dump
+
+# TODO
+
+1. Add option for specifying configuration file position
+2. Change dump function to make optional remote backup
