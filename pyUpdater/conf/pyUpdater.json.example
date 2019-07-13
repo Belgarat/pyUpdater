@@ -1,0 +1,19 @@
+{
+  "dstdir": "/var/www",
+  "updateserver": "http://server/update/",
+  "updatefile": "update.tar.gz",
+  "backupdir": "/tmp",
+  "whitelist": ".htaccess;conf",
+  "logfile": "/opt/pyUpdater/log/pyUpdater.log",
+  "loglevel": 10,
+  "logformat": "%(asctime)s:%(levelname)s:%(message)s",
+  "db_host": "localhost",
+  "db_user": "root",
+  "db_pass": "password",
+  "db_name": "dbname",
+  "transfer": {
+    "server": "remoteserver",
+    "username": "root",
+    "password": ""
+  }
+}
