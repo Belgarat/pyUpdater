@@ -575,3 +575,35 @@
 2019-07-13 09:29:09,384:DEBUG:Trying SSH key b'aa063ce29fc76364b195e17422d34acf'
 2019-07-13 09:29:09,461:DEBUG:userauth is OK
 2019-07-13 09:29:09,543:INFO:Authentication (publickey) successful!
+2019-07-13 09:33:38,544:DEBUG:Create temporary directory: /tmp/tmp6i23rjwn
+2019-07-13 09:33:38,660:DEBUG:starting thread (client mode): 0xa4ddf3c8
+2019-07-13 09:33:38,660:DEBUG:Local version/idstring: SSH-2.0-paramiko_2.4.2
+2019-07-13 09:33:38,681:DEBUG:Remote version/idstring: SSH-2.0-OpenSSH_7.4p1 Debian-10+deb9u6
+2019-07-13 09:33:38,681:INFO:Connected (version 2.0, client OpenSSH_7.4p1)
+2019-07-13 09:33:38,700:DEBUG:kex algos:['curve25519-sha256', 'curve25519-sha256@libssh.org', 'ecdh-sha2-nistp256', 'ecdh-sha2-nistp384', 'ecdh-sha2-nistp521', 'diffie-hellman-group-exchange-sha256', 'diffie-hellman-group16-sha512', 'diffie-hellman-group18-sha512', 'diffie-hellman-group14-sha256', 'diffie-hellman-group14-sha1'] server key:['ssh-rsa', 'rsa-sha2-512', 'rsa-sha2-256', 'ecdsa-sha2-nistp256'] client encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] server encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] client mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] server mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] client compress:['none', 'zlib@openssh.com'] server compress:['none', 'zlib@openssh.com'] client lang:[''] server lang:[''] kex follows?False
+2019-07-13 09:33:38,700:DEBUG:Kex agreed: ecdh-sha2-nistp256
+2019-07-13 09:33:38,700:DEBUG:HostKey agreed: ecdsa-sha2-nistp256
+2019-07-13 09:33:38,700:DEBUG:Cipher agreed: aes128-ctr
+2019-07-13 09:33:38,700:DEBUG:MAC agreed: hmac-sha2-256
+2019-07-13 09:33:38,700:DEBUG:Compression agreed: none
+2019-07-13 09:33:38,775:DEBUG:kex engine KexNistp256 specified hash_algo <built-in function openssl_sha256>
+2019-07-13 09:33:38,776:DEBUG:Switch to new keys ...
+2019-07-13 09:33:38,778:DEBUG:Trying SSH key b'aa063ce29fc76364b195e17422d34acf'
+2019-07-13 09:33:38,854:DEBUG:userauth is OK
+2019-07-13 09:33:38,884:INFO:Authentication (publickey) successful!
+2019-07-13 09:33:52,852:DEBUG:Create temporary directory: /tmp/tmpn8_86urq
+2019-07-13 09:33:52,969:DEBUG:starting thread (client mode): 0xc148a668
+2019-07-13 09:33:52,969:DEBUG:Local version/idstring: SSH-2.0-paramiko_2.4.2
+2019-07-13 09:33:52,988:DEBUG:Remote version/idstring: SSH-2.0-OpenSSH_7.4p1 Debian-10+deb9u6
+2019-07-13 09:33:52,988:INFO:Connected (version 2.0, client OpenSSH_7.4p1)
+2019-07-13 09:33:53,006:DEBUG:kex algos:['curve25519-sha256', 'curve25519-sha256@libssh.org', 'ecdh-sha2-nistp256', 'ecdh-sha2-nistp384', 'ecdh-sha2-nistp521', 'diffie-hellman-group-exchange-sha256', 'diffie-hellman-group16-sha512', 'diffie-hellman-group18-sha512', 'diffie-hellman-group14-sha256', 'diffie-hellman-group14-sha1'] server key:['ssh-rsa', 'rsa-sha2-512', 'rsa-sha2-256', 'ecdsa-sha2-nistp256'] client encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] server encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] client mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] server mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] client compress:['none', 'zlib@openssh.com'] server compress:['none', 'zlib@openssh.com'] client lang:[''] server lang:[''] kex follows?False
+2019-07-13 09:33:53,006:DEBUG:Kex agreed: ecdh-sha2-nistp256
+2019-07-13 09:33:53,006:DEBUG:HostKey agreed: ecdsa-sha2-nistp256
+2019-07-13 09:33:53,006:DEBUG:Cipher agreed: aes128-ctr
+2019-07-13 09:33:53,006:DEBUG:MAC agreed: hmac-sha2-256
+2019-07-13 09:33:53,006:DEBUG:Compression agreed: none
+2019-07-13 09:33:53,074:DEBUG:kex engine KexNistp256 specified hash_algo <built-in function openssl_sha256>
+2019-07-13 09:33:53,075:DEBUG:Switch to new keys ...
+2019-07-13 09:33:53,075:DEBUG:Trying SSH key b'aa063ce29fc76364b195e17422d34acf'
+2019-07-13 09:33:53,153:DEBUG:userauth is OK
+2019-07-13 09:33:53,177:INFO:Authentication (publickey) successful!
