@@ -1,0 +1,561 @@
+2019-07-08 10:29:24,551:DEBUG:Create temporary directory: /tmp/tmpticmeiz5
+2019-07-08 10:34:31,007:DEBUG:Create temporary directory: /tmp/tmpd4_tf9ih
+2019-07-08 10:47:16,361:DEBUG:Create temporary directory: /tmp/tmph9_j4iob
+2019-07-08 10:49:46,632:DEBUG:Create temporary directory: /tmp/tmpm9xe8b3k
+2019-07-08 10:50:03,238:DEBUG:Create temporary directory: /tmp/tmpdcjm4jbm
+2019-07-08 10:50:58,753:DEBUG:Create temporary directory: /tmp/tmpp24honc9
+2019-07-08 10:52:33,769:DEBUG:Create temporary directory: /tmp/tmppajfbrnw
+2019-07-08 10:56:45,434:DEBUG:Create temporary directory: /tmp/tmpfpyl1okj
+2019-07-08 10:58:33,881:DEBUG:Create temporary directory: /tmp/tmpdxv2nw2z
+2019-07-08 11:12:21,831:DEBUG:Create temporary directory: /tmp/tmp303t8zkg
+2019-07-08 11:12:39,108:DEBUG:Create temporary directory: /tmp/tmpjg1qna7z
+2019-07-08 11:20:51,150:DEBUG:Create temporary directory: /tmp/tmp07tfnu0v
+2019-07-08 11:22:40,293:DEBUG:Create temporary directory: /tmp/tmpmlbj49ah
+2019-07-08 11:22:58,924:DEBUG:Create temporary directory: /tmp/tmp_ct6ot_m
+2019-07-08 11:24:00,028:DEBUG:Create temporary directory: /tmp/tmpoy_9rgza
+2019-07-08 11:24:42,544:DEBUG:Create temporary directory: /tmp/tmpobdsms6w
+2019-07-08 11:26:10,506:DEBUG:Create temporary directory: /tmp/tmpo661ilnu
+2019-07-08 11:26:24,354:DEBUG:Create temporary directory: /tmp/tmpn416u0v5
+2019-07-08 11:31:19,755:DEBUG:Create temporary directory: /tmp/tmp0x9996su
+2019-07-08 11:31:40,305:DEBUG:Create temporary directory: /tmp/tmp04xpiw4f
+2019-07-08 11:32:01,819:DEBUG:Create temporary directory: /tmp/tmp7m6gphf6
+2019-07-08 11:39:56,396:DEBUG:Create temporary directory: /tmp/tmpf_xcf_zt
+2019-07-08 11:46:40,907:DEBUG:Create temporary directory: /tmp/tmp5har1ua_
+2019-07-08 11:47:24,581:DEBUG:Create temporary directory: /tmp/tmpiapdsy5_
+2019-07-08 11:48:07,273:DEBUG:Create temporary directory: /tmp/tmpcr_p72gi
+2019-07-08 11:48:23,213:DEBUG:Create temporary directory: /tmp/tmpezhc8tzv
+2019-07-08 11:48:32,416:DEBUG:Create temporary directory: /tmp/tmppje0liht
+2019-07-08 11:49:38,521:DEBUG:Create temporary directory: /tmp/tmpjbsnfmee
+2019-07-08 12:06:49,072:DEBUG:Create temporary directory: /tmp/tmpmvcrw1q4
+2019-07-08 15:37:00,918:DEBUG:Create temporary directory: /tmp/tmpibmzpl1_
+2019-07-08 15:38:45,426:DEBUG:Create temporary directory: /tmp/tmph5ar_9me
+2019-07-08 15:39:30,937:DEBUG:Create temporary directory: /tmp/tmpmf6lusqv
+2019-07-08 15:39:44,928:DEBUG:Create temporary directory: /tmp/tmpqx055aol
+2019-07-08 15:39:44,929:DEBUG:Start update procedure.
+2019-07-08 15:39:44,969:DEBUG:Starting new HTTP connection (1): www.stdout.it
+2019-07-08 15:39:45,322:DEBUG:http://www.stdout.it:80 "GET /assets/polpette//update.tar.gz HTTP/1.1" 200 1032647
+2019-07-08 15:39:46,131:DEBUG:New update present. Start updating ...
+2019-07-08 15:39:46,131:DEBUG:Save file: /var/www/polpette-ui/.htaccess
+2019-07-08 15:39:46,132:DEBUG:Save file: /var/www/polpette-ui/assets/config.json
+2019-07-08 15:39:46,138:DEBUG:Extract update!
+2019-07-08 15:39:46,299:DEBUG:Restore file: /var/www/polpette-ui/.htaccess
+2019-07-08 15:39:46,300:DEBUG:Restore file: /var/www/polpette-ui/assets/config.json
+2019-07-08 15:41:53,820:DEBUG:Create temporary directory: /tmp/tmphji13sha
+2019-07-08 15:41:53,820:DEBUG:Dump database
+2019-07-08 15:41:53,991:DEBUG:Backup done for polpette
+2019-07-08 15:42:23,971:DEBUG:Create temporary directory: /tmp/tmp8t71uqo6
+2019-07-08 15:42:25,036:DEBUG:Create backup file: /var/backups/backup.tar.gz
+2019-07-10 10:46:44,510:DEBUG:Create temporary directory: /tmp/tmpvd8x23pn
+2019-07-10 10:52:45,946:DEBUG:Create temporary directory: /tmp/tmp37fcb5w0
+2019-07-10 10:53:19,521:DEBUG:Create temporary directory: /tmp/tmphugtgb5u
+2019-07-10 10:53:46,245:DEBUG:Create temporary directory: /tmp/tmpd9jf69p5
+2019-07-10 10:53:53,666:DEBUG:Create temporary directory: /tmp/tmpvvoegw76
+2019-07-10 10:54:04,487:DEBUG:Create temporary directory: /tmp/tmp3rzpqabp
+2019-07-10 10:54:45,080:DEBUG:Create temporary directory: /tmp/tmpz1ov9d_c
+2019-07-10 10:54:57,686:DEBUG:Create temporary directory: /tmp/tmpqljnaj0u
+2019-07-10 10:55:13,405:DEBUG:Create temporary directory: /tmp/tmpdwx5ld5b
+2019-07-10 10:55:13,405:DEBUG:Dump database
+2019-07-10 10:55:13,493:DEBUG:Backup done for tkmanager
+2019-07-10 10:56:10,283:DEBUG:Create temporary directory: /tmp/tmpqpm1a725
+2019-07-10 10:56:10,283:DEBUG:Dump database
+2019-07-10 10:56:10,326:DEBUG:Backup done for tkmanager
+2019-07-10 11:09:42,501:DEBUG:Create temporary directory: /tmp/tmpmoe3i0i9
+2019-07-10 11:09:42,501:DEBUG:Dump database
+2019-07-10 11:09:42,544:DEBUG:Backup done for tkmanager
+2019-07-10 11:11:15,005:DEBUG:Create temporary directory: /tmp/tmpelvddu34
+2019-07-10 11:11:15,005:DEBUG:Dump database
+2019-07-10 11:11:15,047:DEBUG:Backup done for tkmanager
+2019-07-10 11:13:15,366:DEBUG:Create temporary directory: /tmp/tmpla9qv3zc
+2019-07-10 11:13:15,366:DEBUG:Dump database
+2019-07-10 11:13:15,405:DEBUG:Backup done for tkmanager
+2019-07-10 11:14:38,957:DEBUG:Create temporary directory: /tmp/tmproa5oti_
+2019-07-10 11:14:38,957:DEBUG:Dump database
+2019-07-10 11:14:38,999:DEBUG:Backup done for tkmanager
+2019-07-10 11:14:54,424:DEBUG:Create temporary directory: /tmp/tmpo_k_uovj
+2019-07-10 11:14:54,424:DEBUG:Dump database
+2019-07-10 11:14:54,478:DEBUG:Backup done for tkmanager
+2019-07-10 11:15:52,509:DEBUG:Create temporary directory: /tmp/tmpnipgxmi2
+2019-07-10 11:15:52,509:DEBUG:Dump database
+2019-07-10 11:15:52,552:DEBUG:Backup done for tkmanager
+2019-07-10 11:16:25,293:DEBUG:Create temporary directory: /tmp/tmp1y8tmgby
+2019-07-10 11:16:25,293:DEBUG:Dump database
+2019-07-10 11:16:25,334:DEBUG:Backup done for tkmanager
+2019-07-10 11:16:37,723:DEBUG:Create temporary directory: /tmp/tmp1ab8svs2
+2019-07-10 11:16:37,723:DEBUG:Dump database
+2019-07-10 11:16:37,756:DEBUG:Backup done for tkmanager
+2019-07-10 11:16:47,906:DEBUG:Create temporary directory: /tmp/tmpxj5vnmg_
+2019-07-10 11:16:47,906:DEBUG:Dump database
+2019-07-10 11:16:47,947:DEBUG:Backup done for tkmanager
+2019-07-10 11:17:34,180:DEBUG:Create temporary directory: /tmp/tmpnw_w2y64
+2019-07-10 11:17:34,180:DEBUG:Dump database
+2019-07-10 11:17:34,218:DEBUG:Backup done for tkmanager
+2019-07-10 11:18:27,599:DEBUG:Create temporary directory: /tmp/tmp7evdnp_e
+2019-07-10 11:18:27,599:DEBUG:Dump database
+2019-07-10 11:18:27,640:DEBUG:Backup done for tkmanager
+2019-07-10 11:19:08,950:DEBUG:Create temporary directory: /tmp/tmppnnu32ts
+2019-07-10 11:19:08,950:DEBUG:Dump database
+2019-07-10 11:19:08,987:DEBUG:Backup done for tkmanager
+2019-07-10 11:19:48,053:DEBUG:Create temporary directory: /tmp/tmpwr2z9uhj
+2019-07-10 11:19:48,054:DEBUG:Dump database
+2019-07-10 11:19:48,095:DEBUG:Backup done for tkmanager
+2019-07-10 11:36:42,082:DEBUG:Create temporary directory: /tmp/tmpcneadbr0
+2019-07-10 11:36:42,083:DEBUG:Dump database
+2019-07-10 11:36:42,151:DEBUG:Backup done for tkmanager
+2019-07-10 11:39:39,852:DEBUG:Create temporary directory: /tmp/tmp9gfy3k72
+2019-07-10 11:39:39,852:DEBUG:Dump database
+2019-07-10 11:39:39,898:DEBUG:Backup done for tkmanager
+2019-07-10 11:41:40,550:DEBUG:Create temporary directory: /tmp/tmp8s6qq1nb
+2019-07-10 11:41:40,550:DEBUG:Dump database
+2019-07-10 11:41:40,589:DEBUG:Backup done for tkmanager
+2019-07-10 11:41:53,276:DEBUG:Create temporary directory: /tmp/tmpu7wh4fj9
+2019-07-10 11:41:53,276:DEBUG:Dump database
+2019-07-10 11:41:53,320:DEBUG:Backup done for tkmanager
+2019-07-10 11:45:06,287:DEBUG:Create temporary directory: /tmp/tmpys6513oc
+2019-07-10 11:45:06,287:DEBUG:Dump database
+2019-07-10 11:45:06,333:DEBUG:Backup done for tkmanager
+2019-07-10 11:45:59,618:DEBUG:Create temporary directory: /tmp/tmpqmpr50ew
+2019-07-10 11:45:59,618:DEBUG:Dump database
+2019-07-10 11:45:59,666:DEBUG:Backup done for tkmanager
+2019-07-10 11:46:34,858:DEBUG:Create temporary directory: /tmp/tmpw6v_qes0
+2019-07-10 11:46:34,858:DEBUG:Dump database
+2019-07-10 11:46:34,900:DEBUG:Backup done for tkmanager
+2019-07-10 11:46:51,694:DEBUG:Create temporary directory: /tmp/tmp7bhubpqo
+2019-07-10 11:46:51,694:DEBUG:Dump database
+2019-07-10 11:46:51,738:DEBUG:Backup done for tkmanager
+2019-07-10 11:46:56,448:DEBUG:Create temporary directory: /tmp/tmp47oi0tk3
+2019-07-10 11:46:56,448:DEBUG:Dump database
+2019-07-10 11:46:56,486:DEBUG:Backup done for tkmanager
+2019-07-10 11:57:02,759:DEBUG:Create temporary directory: /tmp/tmp8so26i4p
+2019-07-10 11:57:02,760:DEBUG:Dump database
+2019-07-10 11:57:02,809:DEBUG:Backup done for tkmanager
+2019-07-10 11:57:14,382:DEBUG:Create temporary directory: /tmp/tmpvvhk9bgz
+2019-07-10 11:57:14,383:DEBUG:Dump database
+2019-07-10 11:57:14,426:DEBUG:Backup done for tkmanager
+2019-07-10 11:57:48,672:DEBUG:Create temporary directory: /tmp/tmpap_0ngzu
+2019-07-10 11:57:48,673:DEBUG:Dump database
+2019-07-10 11:57:48,703:DEBUG:Backup done for tkmanager
+2019-07-10 11:58:07,602:DEBUG:Create temporary directory: /tmp/tmpxznfl99h
+2019-07-10 11:58:07,602:DEBUG:Dump database
+2019-07-10 11:58:07,643:DEBUG:Backup done for tkmanager
+2019-07-10 11:58:48,364:DEBUG:Create temporary directory: /tmp/tmpmpno_6ph
+2019-07-10 11:58:48,364:DEBUG:Dump database
+2019-07-10 11:58:48,403:DEBUG:Backup done for tkmanager
+2019-07-10 11:59:00,212:DEBUG:Create temporary directory: /tmp/tmpxc73wfhj
+2019-07-10 11:59:00,212:DEBUG:Dump database
+2019-07-10 11:59:00,239:DEBUG:Backup done for tkmanager
+2019-07-10 11:59:42,229:DEBUG:Create temporary directory: /tmp/tmpy8k3th4z
+2019-07-10 11:59:42,229:DEBUG:Dump database
+2019-07-10 11:59:42,270:DEBUG:Backup done for tkmanager
+2019-07-10 12:04:38,320:DEBUG:Create temporary directory: /tmp/tmp9yy854mz
+2019-07-10 12:04:38,320:DEBUG:Dump database
+2019-07-10 12:04:38,384:DEBUG:Backup done for tkmanager
+2019-07-10 12:06:41,656:DEBUG:Create temporary directory: /tmp/tmp9eqw1bkm
+2019-07-10 12:06:41,656:DEBUG:Dump database
+2019-07-10 12:06:41,695:DEBUG:Backup done for tkmanager
+2019-07-10 12:07:47,897:DEBUG:Create temporary directory: /tmp/tmpzm9zr8gy
+2019-07-10 12:07:47,897:DEBUG:Dump database
+2019-07-10 12:07:47,946:DEBUG:Backup done for tkmanager
+2019-07-10 12:08:01,672:DEBUG:Create temporary directory: /tmp/tmpen2vw2rk
+2019-07-10 12:08:01,672:DEBUG:Dump database
+2019-07-10 12:08:01,707:DEBUG:Backup done for tkmanager
+2019-07-10 12:08:58,406:DEBUG:Create temporary directory: /tmp/tmp96mobv62
+2019-07-10 12:08:58,406:DEBUG:Dump database
+2019-07-10 12:08:58,435:DEBUG:Backup done for tkmanager
+2019-07-10 12:14:36,624:DEBUG:Create temporary directory: /tmp/tmpw2uamj0i
+2019-07-10 12:14:36,625:DEBUG:Dump database
+2019-07-10 12:14:36,707:DEBUG:Backup done for tkmanager
+2019-07-10 12:15:07,530:DEBUG:Create temporary directory: /tmp/tmpeg12vkda
+2019-07-10 12:15:07,530:DEBUG:Dump database
+2019-07-10 12:15:07,588:DEBUG:Backup done for tkmanager
+2019-07-10 12:21:57,352:DEBUG:Create temporary directory: /tmp/tmp4qe7er7n
+2019-07-10 12:21:57,352:DEBUG:Dump database
+2019-07-10 12:21:57,417:DEBUG:Backup done for tkmanager
+2019-07-10 12:21:57,516:DEBUG:starting thread (client mode): 0xa93c1208
+2019-07-10 12:21:57,516:DEBUG:Local version/idstring: SSH-2.0-paramiko_2.4.2
+2019-07-10 12:21:57,519:DEBUG:Remote version/idstring: SSH-2.0-OpenSSH_7.6p1 Ubuntu-4ubuntu0.3
+2019-07-10 12:21:57,519:INFO:Connected (version 2.0, client OpenSSH_7.6p1)
+2019-07-10 12:21:57,520:DEBUG:kex algos:['curve25519-sha256', 'curve25519-sha256@libssh.org', 'ecdh-sha2-nistp256', 'ecdh-sha2-nistp384', 'ecdh-sha2-nistp521', 'diffie-hellman-group-exchange-sha256', 'diffie-hellman-group16-sha512', 'diffie-hellman-group18-sha512', 'diffie-hellman-group14-sha256', 'diffie-hellman-group14-sha1'] server key:['ssh-rsa', 'rsa-sha2-512', 'rsa-sha2-256', 'ecdsa-sha2-nistp256', 'ssh-ed25519'] client encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] server encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] client mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] server mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] client compress:['none', 'zlib@openssh.com'] server compress:['none', 'zlib@openssh.com'] client lang:[''] server lang:[''] kex follows?False
+2019-07-10 12:21:57,520:DEBUG:Kex agreed: ecdh-sha2-nistp256
+2019-07-10 12:21:57,520:DEBUG:HostKey agreed: ecdsa-sha2-nistp256
+2019-07-10 12:21:57,520:DEBUG:Cipher agreed: aes128-ctr
+2019-07-10 12:21:57,521:DEBUG:MAC agreed: hmac-sha2-256
+2019-07-10 12:21:57,521:DEBUG:Compression agreed: none
+2019-07-10 12:21:57,533:DEBUG:kex engine KexNistp256 specified hash_algo <built-in function openssl_sha256>
+2019-07-10 12:21:57,533:DEBUG:Switch to new keys ...
+2019-07-10 12:21:57,538:DEBUG:Trying SSH agent key b'aa063ce29fc76364b195e17422d34acf'
+2019-07-10 12:21:57,574:DEBUG:userauth is OK
+2019-07-10 12:21:57,583:INFO:Authentication (publickey) failed.
+2019-07-10 12:21:57,585:DEBUG:Trying discovered key b'aa063ce29fc76364b195e17422d34acf' in /home/mbrunet/.ssh/id_rsa
+2019-07-10 12:21:57,586:DEBUG:userauth is OK
+2019-07-10 12:21:57,588:INFO:Authentication (publickey) failed.
+2019-07-10 12:21:57,589:DEBUG:userauth is OK
+2019-07-10 12:21:57,621:INFO:Authentication (password) successful!
+2019-07-10 12:21:57,622:DEBUG:[chan 0] Max packet in: 32768 bytes
+2019-07-10 12:22:02,015:DEBUG:Received global request "hostkeys-00@openssh.com"
+2019-07-10 12:22:02,015:DEBUG:Rejecting "hostkeys-00@openssh.com" global request from server.
+2019-07-10 12:22:02,057:DEBUG:[chan 0] Max packet out: 32768 bytes
+2019-07-10 12:22:02,057:DEBUG:Secsh channel 0 opened.
+2019-07-10 12:22:02,060:DEBUG:[chan 0] Sesch channel 0 request ok
+2019-07-10 12:22:02,064:INFO:[chan 0] Opened sftp connection (server version 3)
+2019-07-10 12:22:02,065:DEBUG:[chan 0] open(b'/tmp/dump_tkmanager_1562754117.sql.gz', 'wb')
+2019-07-10 12:22:02,068:DEBUG:[chan 0] open(b'/tmp/dump_tkmanager_1562754117.sql.gz', 'wb') -> 00000000
+2019-07-10 12:22:02,068:DEBUG:[chan 0] close(00000000)
+2019-07-10 12:22:02,070:DEBUG:[chan 0] stat(b'/tmp/dump_tkmanager_1562754117.sql.gz')
+2019-07-10 12:22:02,072:INFO:[chan 0] sftp session closed.
+2019-07-10 12:22:02,073:DEBUG:[chan 0] EOF sent (0)
+2019-07-10 12:30:17,969:DEBUG:Create temporary directory: /tmp/tmpbluf34z5
+2019-07-10 12:30:17,969:DEBUG:Dump database
+2019-07-10 12:30:18,017:DEBUG:Backup done for tkmanager
+2019-07-10 12:30:18,105:DEBUG:starting thread (client mode): 0xd1b5f1d0
+2019-07-10 12:30:18,105:DEBUG:Local version/idstring: SSH-2.0-paramiko_2.4.2
+2019-07-10 12:30:18,108:DEBUG:Remote version/idstring: SSH-2.0-OpenSSH_7.6p1 Ubuntu-4ubuntu0.3
+2019-07-10 12:30:18,108:INFO:Connected (version 2.0, client OpenSSH_7.6p1)
+2019-07-10 12:30:18,109:DEBUG:kex algos:['curve25519-sha256', 'curve25519-sha256@libssh.org', 'ecdh-sha2-nistp256', 'ecdh-sha2-nistp384', 'ecdh-sha2-nistp521', 'diffie-hellman-group-exchange-sha256', 'diffie-hellman-group16-sha512', 'diffie-hellman-group18-sha512', 'diffie-hellman-group14-sha256', 'diffie-hellman-group14-sha1'] server key:['ssh-rsa', 'rsa-sha2-512', 'rsa-sha2-256', 'ecdsa-sha2-nistp256', 'ssh-ed25519'] client encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] server encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] client mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] server mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] client compress:['none', 'zlib@openssh.com'] server compress:['none', 'zlib@openssh.com'] client lang:[''] server lang:[''] kex follows?False
+2019-07-10 12:30:18,109:DEBUG:Kex agreed: ecdh-sha2-nistp256
+2019-07-10 12:30:18,109:DEBUG:HostKey agreed: ecdsa-sha2-nistp256
+2019-07-10 12:30:18,109:DEBUG:Cipher agreed: aes128-ctr
+2019-07-10 12:30:18,109:DEBUG:MAC agreed: hmac-sha2-256
+2019-07-10 12:30:18,109:DEBUG:Compression agreed: none
+2019-07-10 12:30:18,160:DEBUG:kex engine KexNistp256 specified hash_algo <built-in function openssl_sha256>
+2019-07-10 12:30:18,161:DEBUG:Switch to new keys ...
+2019-07-10 12:30:18,162:DEBUG:Trying SSH agent key b'aa063ce29fc76364b195e17422d34acf'
+2019-07-10 12:30:18,203:DEBUG:userauth is OK
+2019-07-10 12:30:18,211:INFO:Authentication (publickey) failed.
+2019-07-10 12:30:18,213:DEBUG:Trying discovered key b'aa063ce29fc76364b195e17422d34acf' in /home/mbrunet/.ssh/id_rsa
+2019-07-10 12:30:18,215:DEBUG:userauth is OK
+2019-07-10 12:30:18,222:INFO:Authentication (publickey) failed.
+2019-07-10 12:30:18,224:DEBUG:userauth is OK
+2019-07-10 12:30:18,247:INFO:Authentication (password) successful!
+2019-07-10 12:30:18,248:DEBUG:[chan 0] Max packet in: 32768 bytes
+2019-07-10 12:30:18,989:DEBUG:Received global request "hostkeys-00@openssh.com"
+2019-07-10 12:30:18,990:DEBUG:Rejecting "hostkeys-00@openssh.com" global request from server.
+2019-07-10 12:30:19,032:DEBUG:[chan 0] Max packet out: 32768 bytes
+2019-07-10 12:30:19,033:DEBUG:Secsh channel 0 opened.
+2019-07-10 12:30:19,036:DEBUG:[chan 0] Sesch channel 0 request ok
+2019-07-10 12:30:19,038:INFO:[chan 0] Opened sftp connection (server version 3)
+2019-07-10 12:30:19,039:DEBUG:[chan 0] open(b'/tmp/dump_tkmanager_1562754617.sql.gz', 'wb')
+2019-07-10 12:30:19,042:DEBUG:[chan 0] open(b'/tmp/dump_tkmanager_1562754617.sql.gz', 'wb') -> 00000000
+2019-07-10 12:30:19,043:DEBUG:[chan 0] close(00000000)
+2019-07-10 12:30:19,045:DEBUG:[chan 0] stat(b'/tmp/dump_tkmanager_1562754617.sql.gz')
+2019-07-10 12:30:19,047:INFO:[chan 0] sftp session closed.
+2019-07-10 12:30:19,048:DEBUG:[chan 0] EOF sent (0)
+2019-07-10 12:30:36,126:DEBUG:Create temporary directory: /tmp/tmpxr9adcua
+2019-07-10 12:30:36,126:DEBUG:Dump database
+2019-07-10 12:30:36,175:DEBUG:Backup done for tkmanager
+2019-07-10 12:30:36,268:DEBUG:starting thread (client mode): 0x385e2160
+2019-07-10 12:30:36,268:DEBUG:Local version/idstring: SSH-2.0-paramiko_2.4.2
+2019-07-10 12:30:36,278:DEBUG:Remote version/idstring: SSH-2.0-OpenSSH_7.6p1 Ubuntu-4ubuntu0.3
+2019-07-10 12:30:36,278:INFO:Connected (version 2.0, client OpenSSH_7.6p1)
+2019-07-10 12:30:36,279:DEBUG:kex algos:['curve25519-sha256', 'curve25519-sha256@libssh.org', 'ecdh-sha2-nistp256', 'ecdh-sha2-nistp384', 'ecdh-sha2-nistp521', 'diffie-hellman-group-exchange-sha256', 'diffie-hellman-group16-sha512', 'diffie-hellman-group18-sha512', 'diffie-hellman-group14-sha256', 'diffie-hellman-group14-sha1'] server key:['ssh-rsa', 'rsa-sha2-512', 'rsa-sha2-256', 'ecdsa-sha2-nistp256', 'ssh-ed25519'] client encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] server encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] client mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] server mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] client compress:['none', 'zlib@openssh.com'] server compress:['none', 'zlib@openssh.com'] client lang:[''] server lang:[''] kex follows?False
+2019-07-10 12:30:36,279:DEBUG:Kex agreed: ecdh-sha2-nistp256
+2019-07-10 12:30:36,279:DEBUG:HostKey agreed: ecdsa-sha2-nistp256
+2019-07-10 12:30:36,279:DEBUG:Cipher agreed: aes128-ctr
+2019-07-10 12:30:36,279:DEBUG:MAC agreed: hmac-sha2-256
+2019-07-10 12:30:36,279:DEBUG:Compression agreed: none
+2019-07-10 12:30:36,330:DEBUG:kex engine KexNistp256 specified hash_algo <built-in function openssl_sha256>
+2019-07-10 12:30:36,331:DEBUG:Switch to new keys ...
+2019-07-10 12:30:36,331:DEBUG:Trying SSH agent key b'aa063ce29fc76364b195e17422d34acf'
+2019-07-10 12:30:36,374:DEBUG:userauth is OK
+2019-07-10 12:30:36,378:INFO:Authentication (publickey) failed.
+2019-07-10 12:30:36,379:DEBUG:Trying discovered key b'aa063ce29fc76364b195e17422d34acf' in /home/mbrunet/.ssh/id_rsa
+2019-07-10 12:30:36,380:DEBUG:userauth is OK
+2019-07-10 12:30:36,383:INFO:Authentication (publickey) failed.
+2019-07-10 12:30:36,384:DEBUG:userauth is OK
+2019-07-10 12:30:36,406:INFO:Authentication (password) successful!
+2019-07-10 12:30:36,407:DEBUG:[chan 0] Max packet in: 32768 bytes
+2019-07-10 12:30:37,144:DEBUG:Received global request "hostkeys-00@openssh.com"
+2019-07-10 12:30:37,145:DEBUG:Rejecting "hostkeys-00@openssh.com" global request from server.
+2019-07-10 12:30:37,188:DEBUG:[chan 0] Max packet out: 32768 bytes
+2019-07-10 12:30:37,189:DEBUG:Secsh channel 0 opened.
+2019-07-10 12:30:37,191:DEBUG:[chan 0] Sesch channel 0 request ok
+2019-07-10 12:30:37,196:INFO:[chan 0] Opened sftp connection (server version 3)
+2019-07-10 12:30:37,197:DEBUG:[chan 0] open(b'/tmp/dump_tkmanager_1562754636.sql.gz', 'wb')
+2019-07-10 12:30:37,199:DEBUG:[chan 0] open(b'/tmp/dump_tkmanager_1562754636.sql.gz', 'wb') -> 00000000
+2019-07-10 12:30:37,200:DEBUG:[chan 0] close(00000000)
+2019-07-10 12:30:37,202:DEBUG:[chan 0] stat(b'/tmp/dump_tkmanager_1562754636.sql.gz')
+2019-07-10 12:30:37,204:INFO:[chan 0] sftp session closed.
+2019-07-10 12:30:37,204:DEBUG:[chan 0] EOF sent (0)
+2019-07-10 12:34:15,095:DEBUG:Create temporary directory: /tmp/tmpqrzn0zu8
+2019-07-10 12:34:15,096:DEBUG:Dump database
+2019-07-10 12:34:15,146:DEBUG:Backup done for tkmanager
+2019-07-10 12:34:15,227:DEBUG:starting thread (client mode): 0xe13d4208
+2019-07-10 12:34:15,227:DEBUG:Local version/idstring: SSH-2.0-paramiko_2.4.2
+2019-07-10 12:34:15,227:DEBUG:Remote version/idstring: SSH-2.0-OpenSSH_7.6p1 Ubuntu-4ubuntu0.3
+2019-07-10 12:34:15,227:INFO:Connected (version 2.0, client OpenSSH_7.6p1)
+2019-07-10 12:34:15,229:DEBUG:kex algos:['curve25519-sha256', 'curve25519-sha256@libssh.org', 'ecdh-sha2-nistp256', 'ecdh-sha2-nistp384', 'ecdh-sha2-nistp521', 'diffie-hellman-group-exchange-sha256', 'diffie-hellman-group16-sha512', 'diffie-hellman-group18-sha512', 'diffie-hellman-group14-sha256', 'diffie-hellman-group14-sha1'] server key:['ssh-rsa', 'rsa-sha2-512', 'rsa-sha2-256', 'ecdsa-sha2-nistp256', 'ssh-ed25519'] client encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] server encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] client mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] server mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] client compress:['none', 'zlib@openssh.com'] server compress:['none', 'zlib@openssh.com'] client lang:[''] server lang:[''] kex follows?False
+2019-07-10 12:34:15,229:DEBUG:Kex agreed: ecdh-sha2-nistp256
+2019-07-10 12:34:15,229:DEBUG:HostKey agreed: ecdsa-sha2-nistp256
+2019-07-10 12:34:15,229:DEBUG:Cipher agreed: aes128-ctr
+2019-07-10 12:34:15,229:DEBUG:MAC agreed: hmac-sha2-256
+2019-07-10 12:34:15,229:DEBUG:Compression agreed: none
+2019-07-10 12:34:15,239:DEBUG:kex engine KexNistp256 specified hash_algo <built-in function openssl_sha256>
+2019-07-10 12:34:15,239:DEBUG:Switch to new keys ...
+2019-07-10 12:34:15,240:DEBUG:Trying SSH agent key b'aa063ce29fc76364b195e17422d34acf'
+2019-07-10 12:34:15,282:DEBUG:userauth is OK
+2019-07-10 12:34:15,287:INFO:Authentication (publickey) failed.
+2019-07-10 12:34:15,288:DEBUG:Trying discovered key b'aa063ce29fc76364b195e17422d34acf' in /home/mbrunet/.ssh/id_rsa
+2019-07-10 12:34:15,289:DEBUG:userauth is OK
+2019-07-10 12:34:15,293:INFO:Authentication (publickey) failed.
+2019-07-10 12:34:15,294:DEBUG:userauth is OK
+2019-07-10 12:34:15,317:INFO:Authentication (password) successful!
+2019-07-10 12:34:15,317:DEBUG:[chan 0] Max packet in: 32768 bytes
+2019-07-10 12:34:16,023:DEBUG:Received global request "hostkeys-00@openssh.com"
+2019-07-10 12:34:16,024:DEBUG:Rejecting "hostkeys-00@openssh.com" global request from server.
+2019-07-10 12:34:16,064:DEBUG:[chan 0] Max packet out: 32768 bytes
+2019-07-10 12:34:16,065:DEBUG:Secsh channel 0 opened.
+2019-07-10 12:34:16,068:DEBUG:[chan 0] Sesch channel 0 request ok
+2019-07-10 12:34:16,071:INFO:[chan 0] Opened sftp connection (server version 3)
+2019-07-10 12:34:16,072:DEBUG:[chan 0] open(b'/tmp/dump_tkmanager_1562754855.sql.gz', 'wb')
+2019-07-10 12:34:16,073:DEBUG:[chan 0] open(b'/tmp/dump_tkmanager_1562754855.sql.gz', 'wb') -> 00000000
+2019-07-10 12:34:16,074:DEBUG:[chan 0] close(00000000)
+2019-07-10 12:34:16,076:DEBUG:[chan 0] stat(b'/tmp/dump_tkmanager_1562754855.sql.gz')
+2019-07-10 12:34:16,078:INFO:[chan 0] sftp session closed.
+2019-07-10 12:34:16,079:DEBUG:[chan 0] EOF sent (0)
+2019-07-10 14:40:43,211:DEBUG:Create temporary directory: /tmp/tmpz51ijncd
+2019-07-10 15:51:37,119:DEBUG:Create temporary directory: /tmp/tmp6_q8qqjb
+2019-07-10 15:53:48,150:DEBUG:Create temporary directory: /tmp/tmp2yctey7c
+2019-07-10 15:57:16,075:DEBUG:Create temporary directory: /tmp/tmprw372npk
+2019-07-10 16:02:32,938:DEBUG:Create temporary directory: /tmp/tmphwrvvy98
+2019-07-10 16:04:00,941:DEBUG:Create temporary directory: /tmp/tmp7ed8izar
+2019-07-10 16:05:19,369:DEBUG:Create temporary directory: /tmp/tmpgmhd092i
+2019-07-10 17:16:14,037:DEBUG:Create temporary directory: /tmp/tmpv4gwmyuz
+2019-07-10 19:03:22,466:DEBUG:Create temporary directory: /tmp/tmp9jm62swf
+2019-07-10 19:03:22,647:DEBUG:starting thread (client mode): 0xb47d4e0
+2019-07-10 19:03:22,647:DEBUG:Local version/idstring: SSH-2.0-paramiko_2.4.2
+2019-07-10 19:03:22,695:DEBUG:Remote version/idstring: SSH-2.0-OpenSSH_7.4p1 Debian-10+deb9u6
+2019-07-10 19:03:22,695:INFO:Connected (version 2.0, client OpenSSH_7.4p1)
+2019-07-10 19:03:22,735:DEBUG:kex algos:['curve25519-sha256', 'curve25519-sha256@libssh.org', 'ecdh-sha2-nistp256', 'ecdh-sha2-nistp384', 'ecdh-sha2-nistp521', 'diffie-hellman-group-exchange-sha256', 'diffie-hellman-group16-sha512', 'diffie-hellman-group18-sha512', 'diffie-hellman-group14-sha256', 'diffie-hellman-group14-sha1'] server key:['ssh-rsa', 'rsa-sha2-512', 'rsa-sha2-256', 'ecdsa-sha2-nistp256'] client encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] server encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] client mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] server mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] client compress:['none', 'zlib@openssh.com'] server compress:['none', 'zlib@openssh.com'] client lang:[''] server lang:[''] kex follows?False
+2019-07-10 19:03:22,735:DEBUG:Kex agreed: ecdh-sha2-nistp256
+2019-07-10 19:03:22,735:DEBUG:HostKey agreed: ecdsa-sha2-nistp256
+2019-07-10 19:03:22,735:DEBUG:Cipher agreed: aes128-ctr
+2019-07-10 19:03:22,735:DEBUG:MAC agreed: hmac-sha2-256
+2019-07-10 19:03:22,735:DEBUG:Compression agreed: none
+2019-07-10 19:03:22,836:DEBUG:kex engine KexNistp256 specified hash_algo <built-in function openssl_sha256>
+2019-07-10 19:03:22,837:DEBUG:Switch to new keys ...
+2019-07-10 19:03:22,838:DEBUG:Trying SSH agent key b'aa063ce29fc76364b195e17422d34acf'
+2019-07-10 19:03:22,959:DEBUG:userauth is OK
+2019-07-10 19:03:23,012:INFO:Authentication (publickey) successful!
+2019-07-10 19:03:33,063:DEBUG:Create temporary directory: /tmp/tmp8a1vtnl3
+2019-07-10 19:03:33,207:DEBUG:starting thread (client mode): 0xd515c0
+2019-07-10 19:03:33,208:DEBUG:Local version/idstring: SSH-2.0-paramiko_2.4.2
+2019-07-10 19:03:33,250:DEBUG:Remote version/idstring: SSH-2.0-OpenSSH_7.4p1 Debian-10+deb9u6
+2019-07-10 19:03:33,250:INFO:Connected (version 2.0, client OpenSSH_7.4p1)
+2019-07-10 19:03:33,291:DEBUG:kex algos:['curve25519-sha256', 'curve25519-sha256@libssh.org', 'ecdh-sha2-nistp256', 'ecdh-sha2-nistp384', 'ecdh-sha2-nistp521', 'diffie-hellman-group-exchange-sha256', 'diffie-hellman-group16-sha512', 'diffie-hellman-group18-sha512', 'diffie-hellman-group14-sha256', 'diffie-hellman-group14-sha1'] server key:['ssh-rsa', 'rsa-sha2-512', 'rsa-sha2-256', 'ecdsa-sha2-nistp256'] client encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] server encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] client mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] server mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] client compress:['none', 'zlib@openssh.com'] server compress:['none', 'zlib@openssh.com'] client lang:[''] server lang:[''] kex follows?False
+2019-07-10 19:03:33,291:DEBUG:Kex agreed: ecdh-sha2-nistp256
+2019-07-10 19:03:33,291:DEBUG:HostKey agreed: ecdsa-sha2-nistp256
+2019-07-10 19:03:33,291:DEBUG:Cipher agreed: aes128-ctr
+2019-07-10 19:03:33,291:DEBUG:MAC agreed: hmac-sha2-256
+2019-07-10 19:03:33,291:DEBUG:Compression agreed: none
+2019-07-10 19:03:33,390:DEBUG:kex engine KexNistp256 specified hash_algo <built-in function openssl_sha256>
+2019-07-10 19:03:33,390:DEBUG:Switch to new keys ...
+2019-07-10 19:03:33,391:DEBUG:Trying SSH agent key b'aa063ce29fc76364b195e17422d34acf'
+2019-07-10 19:03:33,517:DEBUG:userauth is OK
+2019-07-10 19:03:33,569:INFO:Authentication (publickey) failed.
+2019-07-10 19:03:33,578:DEBUG:Trying discovered key b'aa063ce29fc76364b195e17422d34acf' in /home/mbrunet/.ssh/id_rsa
+2019-07-10 19:03:33,620:DEBUG:userauth is OK
+2019-07-10 19:03:33,673:INFO:Authentication (publickey) failed.
+2019-07-10 19:03:33,716:DEBUG:userauth is OK
+2019-07-10 19:03:33,758:INFO:Authentication (password) failed.
+2019-07-10 19:03:59,742:DEBUG:Create temporary directory: /tmp/tmpowxgpopy
+2019-07-10 19:03:59,881:DEBUG:starting thread (client mode): 0x2fdae588
+2019-07-10 19:03:59,881:DEBUG:Local version/idstring: SSH-2.0-paramiko_2.4.2
+2019-07-10 19:03:59,926:DEBUG:Remote version/idstring: SSH-2.0-OpenSSH_7.4p1 Debian-10+deb9u6
+2019-07-10 19:03:59,927:INFO:Connected (version 2.0, client OpenSSH_7.4p1)
+2019-07-10 19:03:59,968:DEBUG:kex algos:['curve25519-sha256', 'curve25519-sha256@libssh.org', 'ecdh-sha2-nistp256', 'ecdh-sha2-nistp384', 'ecdh-sha2-nistp521', 'diffie-hellman-group-exchange-sha256', 'diffie-hellman-group16-sha512', 'diffie-hellman-group18-sha512', 'diffie-hellman-group14-sha256', 'diffie-hellman-group14-sha1'] server key:['ssh-rsa', 'rsa-sha2-512', 'rsa-sha2-256', 'ecdsa-sha2-nistp256'] client encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] server encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] client mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] server mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] client compress:['none', 'zlib@openssh.com'] server compress:['none', 'zlib@openssh.com'] client lang:[''] server lang:[''] kex follows?False
+2019-07-10 19:03:59,969:DEBUG:Kex agreed: ecdh-sha2-nistp256
+2019-07-10 19:03:59,969:DEBUG:HostKey agreed: ecdsa-sha2-nistp256
+2019-07-10 19:03:59,969:DEBUG:Cipher agreed: aes128-ctr
+2019-07-10 19:03:59,969:DEBUG:MAC agreed: hmac-sha2-256
+2019-07-10 19:03:59,969:DEBUG:Compression agreed: none
+2019-07-10 19:04:00,070:DEBUG:kex engine KexNistp256 specified hash_algo <built-in function openssl_sha256>
+2019-07-10 19:04:00,071:DEBUG:Switch to new keys ...
+2019-07-10 19:04:00,073:DEBUG:Trying SSH agent key b'aa063ce29fc76364b195e17422d34acf'
+2019-07-10 19:04:00,203:DEBUG:userauth is OK
+2019-07-10 19:04:00,257:INFO:Authentication (publickey) successful!
+2019-07-10 19:04:34,541:DEBUG:Create temporary directory: /tmp/tmpp46bzjzb
+2019-07-10 19:04:34,688:DEBUG:starting thread (client mode): 0xb31a46a0
+2019-07-10 19:04:34,688:DEBUG:Local version/idstring: SSH-2.0-paramiko_2.4.2
+2019-07-10 19:04:34,736:DEBUG:Remote version/idstring: SSH-2.0-OpenSSH_7.4p1 Debian-10+deb9u6
+2019-07-10 19:04:34,736:INFO:Connected (version 2.0, client OpenSSH_7.4p1)
+2019-07-10 19:04:34,777:DEBUG:kex algos:['curve25519-sha256', 'curve25519-sha256@libssh.org', 'ecdh-sha2-nistp256', 'ecdh-sha2-nistp384', 'ecdh-sha2-nistp521', 'diffie-hellman-group-exchange-sha256', 'diffie-hellman-group16-sha512', 'diffie-hellman-group18-sha512', 'diffie-hellman-group14-sha256', 'diffie-hellman-group14-sha1'] server key:['ssh-rsa', 'rsa-sha2-512', 'rsa-sha2-256', 'ecdsa-sha2-nistp256'] client encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] server encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] client mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] server mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] client compress:['none', 'zlib@openssh.com'] server compress:['none', 'zlib@openssh.com'] client lang:[''] server lang:[''] kex follows?False
+2019-07-10 19:04:34,777:DEBUG:Kex agreed: ecdh-sha2-nistp256
+2019-07-10 19:04:34,777:DEBUG:HostKey agreed: ecdsa-sha2-nistp256
+2019-07-10 19:04:34,777:DEBUG:Cipher agreed: aes128-ctr
+2019-07-10 19:04:34,777:DEBUG:MAC agreed: hmac-sha2-256
+2019-07-10 19:04:34,777:DEBUG:Compression agreed: none
+2019-07-10 19:04:34,876:DEBUG:kex engine KexNistp256 specified hash_algo <built-in function openssl_sha256>
+2019-07-10 19:04:34,877:DEBUG:Switch to new keys ...
+2019-07-10 19:04:34,877:DEBUG:Trying SSH agent key b'aa063ce29fc76364b195e17422d34acf'
+2019-07-10 19:04:34,998:DEBUG:userauth is OK
+2019-07-10 19:04:35,050:INFO:Authentication (publickey) successful!
+2019-07-10 19:06:45,852:DEBUG:Create temporary directory: /tmp/tmp006szzhp
+2019-07-10 19:06:45,991:DEBUG:starting thread (client mode): 0xf682a780
+2019-07-10 19:06:45,992:DEBUG:Local version/idstring: SSH-2.0-paramiko_2.4.2
+2019-07-10 19:06:46,039:DEBUG:Remote version/idstring: SSH-2.0-OpenSSH_7.4p1 Debian-10+deb9u6
+2019-07-10 19:06:46,039:INFO:Connected (version 2.0, client OpenSSH_7.4p1)
+2019-07-10 19:06:46,079:DEBUG:kex algos:['curve25519-sha256', 'curve25519-sha256@libssh.org', 'ecdh-sha2-nistp256', 'ecdh-sha2-nistp384', 'ecdh-sha2-nistp521', 'diffie-hellman-group-exchange-sha256', 'diffie-hellman-group16-sha512', 'diffie-hellman-group18-sha512', 'diffie-hellman-group14-sha256', 'diffie-hellman-group14-sha1'] server key:['ssh-rsa', 'rsa-sha2-512', 'rsa-sha2-256', 'ecdsa-sha2-nistp256'] client encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] server encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] client mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] server mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] client compress:['none', 'zlib@openssh.com'] server compress:['none', 'zlib@openssh.com'] client lang:[''] server lang:[''] kex follows?False
+2019-07-10 19:06:46,079:DEBUG:Kex agreed: ecdh-sha2-nistp256
+2019-07-10 19:06:46,079:DEBUG:HostKey agreed: ecdsa-sha2-nistp256
+2019-07-10 19:06:46,080:DEBUG:Cipher agreed: aes128-ctr
+2019-07-10 19:06:46,080:DEBUG:MAC agreed: hmac-sha2-256
+2019-07-10 19:06:46,080:DEBUG:Compression agreed: none
+2019-07-10 19:06:46,179:DEBUG:kex engine KexNistp256 specified hash_algo <built-in function openssl_sha256>
+2019-07-10 19:06:46,180:DEBUG:Switch to new keys ...
+2019-07-10 19:06:46,182:DEBUG:Trying SSH agent key b'aa063ce29fc76364b195e17422d34acf'
+2019-07-10 19:06:46,301:DEBUG:userauth is OK
+2019-07-10 19:06:46,357:INFO:Authentication (publickey) successful!
+2019-07-10 19:08:09,307:DEBUG:Create temporary directory: /tmp/tmpg6_exq96
+2019-07-10 19:08:09,452:DEBUG:starting thread (client mode): 0x538f2630
+2019-07-10 19:08:09,453:DEBUG:Local version/idstring: SSH-2.0-paramiko_2.4.2
+2019-07-10 19:08:09,494:DEBUG:Remote version/idstring: SSH-2.0-OpenSSH_7.4p1 Debian-10+deb9u6
+2019-07-10 19:08:09,495:INFO:Connected (version 2.0, client OpenSSH_7.4p1)
+2019-07-10 19:08:09,537:DEBUG:kex algos:['curve25519-sha256', 'curve25519-sha256@libssh.org', 'ecdh-sha2-nistp256', 'ecdh-sha2-nistp384', 'ecdh-sha2-nistp521', 'diffie-hellman-group-exchange-sha256', 'diffie-hellman-group16-sha512', 'diffie-hellman-group18-sha512', 'diffie-hellman-group14-sha256', 'diffie-hellman-group14-sha1'] server key:['ssh-rsa', 'rsa-sha2-512', 'rsa-sha2-256', 'ecdsa-sha2-nistp256'] client encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] server encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] client mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] server mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] client compress:['none', 'zlib@openssh.com'] server compress:['none', 'zlib@openssh.com'] client lang:[''] server lang:[''] kex follows?False
+2019-07-10 19:08:09,537:DEBUG:Kex agreed: ecdh-sha2-nistp256
+2019-07-10 19:08:09,537:DEBUG:HostKey agreed: ecdsa-sha2-nistp256
+2019-07-10 19:08:09,538:DEBUG:Cipher agreed: aes128-ctr
+2019-07-10 19:08:09,538:DEBUG:MAC agreed: hmac-sha2-256
+2019-07-10 19:08:09,538:DEBUG:Compression agreed: none
+2019-07-10 19:08:09,641:DEBUG:kex engine KexNistp256 specified hash_algo <built-in function openssl_sha256>
+2019-07-10 19:08:09,642:DEBUG:Switch to new keys ...
+2019-07-10 19:08:09,645:DEBUG:Trying SSH agent key b'aa063ce29fc76364b195e17422d34acf'
+2019-07-10 19:08:09,767:DEBUG:userauth is OK
+2019-07-10 19:08:09,823:INFO:Authentication (publickey) successful!
+2019-07-10 19:09:20,240:DEBUG:Create temporary directory: /tmp/tmp9p_grrpa
+2019-07-10 19:09:47,983:DEBUG:Create temporary directory: /tmp/tmpovwxaspz
+2019-07-10 19:17:21,650:DEBUG:Create temporary directory: /tmp/tmpaox_a_6x
+2019-07-10 19:51:42,080:DEBUG:Create temporary directory: /tmp/tmp16ogpk52
+2019-07-10 19:52:30,352:DEBUG:Create temporary directory: /tmp/tmp4kfsxign
+2019-07-10 19:52:55,733:DEBUG:Create temporary directory: /tmp/tmp33d079at
+2019-07-10 19:53:18,173:DEBUG:Create temporary directory: /tmp/tmp4zf3y_no
+2019-07-10 19:54:30,048:DEBUG:Create temporary directory: /tmp/tmpaoinitd5
+2019-07-10 19:55:22,679:DEBUG:Create temporary directory: /tmp/tmpnz0k_2p5
+2019-07-10 19:55:40,046:DEBUG:Create temporary directory: /tmp/tmprbskzzdj
+2019-07-10 19:58:55,764:DEBUG:Create temporary directory: /tmp/tmpu5cb3vde
+2019-07-10 20:03:02,747:DEBUG:Create temporary directory: /tmp/tmp1vgyha89
+2019-07-10 20:08:11,640:DEBUG:Create temporary directory: /tmp/tmpznax3sn_
+2019-07-10 20:09:05,035:DEBUG:Create temporary directory: /tmp/tmpb_bn77ko
+2019-07-10 20:09:10,216:DEBUG:Create temporary directory: /tmp/tmpvpehkoxl
+2019-07-10 20:09:17,567:DEBUG:Create temporary directory: /tmp/tmp5su1own7
+2019-07-10 20:11:14,542:DEBUG:Create temporary directory: /tmp/tmpypqs53bw
+2019-07-10 20:12:05,017:DEBUG:Create temporary directory: /tmp/tmp05nvw1i2
+2019-07-10 20:12:16,325:DEBUG:Create temporary directory: /tmp/tmpzcnfkr0r
+2019-07-11 16:59:51,129:DEBUG:Create temporary directory: /tmp/tmpzni4z51f
+2019-07-11 17:03:35,474:DEBUG:Create temporary directory: /tmp/tmp9ygm4ma1
+2019-07-11 17:03:51,821:DEBUG:Create temporary directory: /tmp/tmpt_858gy8
+2019-07-11 17:03:51,950:DEBUG:starting thread (client mode): 0xe180e630
+2019-07-11 17:03:51,950:DEBUG:Local version/idstring: SSH-2.0-paramiko_2.4.2
+2019-07-11 17:03:51,968:DEBUG:Remote version/idstring: SSH-2.0-OpenSSH_7.4p1 Debian-10+deb9u6
+2019-07-11 17:03:51,969:INFO:Connected (version 2.0, client OpenSSH_7.4p1)
+2019-07-11 17:03:51,988:DEBUG:kex algos:['curve25519-sha256', 'curve25519-sha256@libssh.org', 'ecdh-sha2-nistp256', 'ecdh-sha2-nistp384', 'ecdh-sha2-nistp521', 'diffie-hellman-group-exchange-sha256', 'diffie-hellman-group16-sha512', 'diffie-hellman-group18-sha512', 'diffie-hellman-group14-sha256', 'diffie-hellman-group14-sha1'] server key:['ssh-rsa', 'rsa-sha2-512', 'rsa-sha2-256', 'ecdsa-sha2-nistp256'] client encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] server encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] client mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] server mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] client compress:['none', 'zlib@openssh.com'] server compress:['none', 'zlib@openssh.com'] client lang:[''] server lang:[''] kex follows?False
+2019-07-11 17:03:51,988:DEBUG:Kex agreed: ecdh-sha2-nistp256
+2019-07-11 17:03:51,988:DEBUG:HostKey agreed: ecdsa-sha2-nistp256
+2019-07-11 17:03:51,988:DEBUG:Cipher agreed: aes128-ctr
+2019-07-11 17:03:51,989:DEBUG:MAC agreed: hmac-sha2-256
+2019-07-11 17:03:51,989:DEBUG:Compression agreed: none
+2019-07-11 17:03:52,060:DEBUG:kex engine KexNistp256 specified hash_algo <built-in function openssl_sha256>
+2019-07-11 17:03:52,061:DEBUG:Switch to new keys ...
+2019-07-11 17:03:52,063:DEBUG:Trying SSH key b'aa063ce29fc76364b195e17422d34acf'
+2019-07-11 17:03:52,140:DEBUG:userauth is OK
+2019-07-11 17:03:52,168:INFO:Authentication (publickey) failed.
+2019-07-11 17:03:52,174:DEBUG:Trying SSH agent key b'aa063ce29fc76364b195e17422d34acf'
+2019-07-11 17:03:52,193:DEBUG:userauth is OK
+2019-07-11 17:03:52,217:INFO:Authentication (publickey) failed.
+2019-07-11 17:03:52,219:DEBUG:Trying discovered key b'aa063ce29fc76364b195e17422d34acf' in /home/mbrunet/.ssh/id_rsa
+2019-07-11 17:03:52,239:DEBUG:userauth is OK
+2019-07-11 17:03:52,265:INFO:Authentication (publickey) failed.
+2019-07-11 17:04:40,412:DEBUG:Create temporary directory: /tmp/tmpqev1p2cy
+2019-07-11 17:06:12,846:DEBUG:Create temporary directory: /tmp/tmpccwhe37b
+2019-07-11 17:06:54,287:DEBUG:Create temporary directory: /tmp/tmpmbvdm1wt
+2019-07-11 17:06:59,873:DEBUG:Create temporary directory: /tmp/tmp3ucresro
+2019-07-11 17:07:42,219:DEBUG:Create temporary directory: /tmp/tmpswwo47bx
+2019-07-11 17:37:01,419:DEBUG:Create temporary directory: /tmp/tmph3ut4w07
+2019-07-11 17:38:07,550:DEBUG:Create temporary directory: /tmp/tmpmb8y42i_
+2019-07-11 17:38:30,263:DEBUG:Create temporary directory: /tmp/tmpdbsbman7
+2019-07-11 17:38:43,522:DEBUG:Create temporary directory: /tmp/tmpliaro3wc
+2019-07-11 17:45:08,937:DEBUG:Create temporary directory: /tmp/tmpcs00anb9
+2019-07-11 17:45:09,042:DEBUG:starting thread (client mode): 0xcd68668
+2019-07-11 17:45:09,042:DEBUG:Local version/idstring: SSH-2.0-paramiko_2.4.2
+2019-07-11 17:45:09,052:DEBUG:Remote version/idstring: SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.8
+2019-07-11 17:45:09,053:INFO:Connected (version 2.0, client OpenSSH_6.6.1p1)
+2019-07-11 17:45:09,063:DEBUG:kex algos:['curve25519-sha256@libssh.org', 'ecdh-sha2-nistp256', 'ecdh-sha2-nistp384', 'ecdh-sha2-nistp521', 'diffie-hellman-group-exchange-sha256', 'diffie-hellman-group-exchange-sha1', 'diffie-hellman-group14-sha1', 'diffie-hellman-group1-sha1'] server key:['ssh-rsa', 'ssh-dss'] client encrypt:['aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'arcfour256', 'arcfour128', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com', 'chacha20-poly1305@openssh.com', 'aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'aes192-cbc', 'aes256-cbc', 'arcfour', 'rijndael-cbc@lysator.liu.se'] server encrypt:['aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'arcfour256', 'arcfour128', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com', 'chacha20-poly1305@openssh.com', 'aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'aes192-cbc', 'aes256-cbc', 'arcfour', 'rijndael-cbc@lysator.liu.se'] client mac:['hmac-md5-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-ripemd160-etm@openssh.com', 'hmac-sha1-96-etm@openssh.com', 'hmac-md5-96-etm@openssh.com', 'hmac-md5', 'hmac-sha1', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] server mac:['hmac-md5-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-ripemd160-etm@openssh.com', 'hmac-sha1-96-etm@openssh.com', 'hmac-md5-96-etm@openssh.com', 'hmac-md5', 'hmac-sha1', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] client compress:['none', 'zlib@openssh.com'] server compress:['none', 'zlib@openssh.com'] client lang:[''] server lang:[''] kex follows?False
+2019-07-11 17:45:09,064:DEBUG:Kex agreed: ecdh-sha2-nistp256
+2019-07-11 17:45:09,064:DEBUG:HostKey agreed: ssh-rsa
+2019-07-11 17:45:09,064:DEBUG:Cipher agreed: aes128-ctr
+2019-07-11 17:45:09,064:DEBUG:MAC agreed: hmac-sha2-256
+2019-07-11 17:45:09,064:DEBUG:Compression agreed: none
+2019-07-11 17:45:09,127:DEBUG:kex engine KexNistp256 specified hash_algo <built-in function openssl_sha256>
+2019-07-11 17:45:09,128:DEBUG:Switch to new keys ...
+2019-07-11 17:45:09,128:DEBUG:Trying SSH key b'aa063ce29fc76364b195e17422d34acf'
+2019-07-11 17:45:09,186:DEBUG:userauth is OK
+2019-07-11 17:45:09,228:INFO:Authentication (publickey) successful!
+2019-07-11 17:45:09,229:DEBUG:[chan 0] Max packet in: 32768 bytes
+2019-07-11 17:45:10,353:DEBUG:[chan 0] Max packet out: 32768 bytes
+2019-07-11 17:45:10,353:DEBUG:Secsh channel 0 opened.
+2019-07-11 17:45:10,367:DEBUG:[chan 0] Sesch channel 0 request ok
+2019-07-11 17:45:10,395:DEBUG:[chan 0] EOF received (0)
+2019-07-11 17:45:10,397:DEBUG:[chan 0] EOF sent (0)
+2019-07-11 17:45:10,397:DEBUG:Dropping user packet because connection is dead.
+2019-07-11 17:45:10,397:DEBUG:Dropping user packet because connection is dead.
+2019-07-11 17:45:21,201:DEBUG:Create temporary directory: /tmp/tmp1f9rcayp
+2019-07-11 17:45:21,314:DEBUG:starting thread (client mode): 0x6bf6d6a0
+2019-07-11 17:45:21,314:DEBUG:Local version/idstring: SSH-2.0-paramiko_2.4.2
+2019-07-11 17:45:21,318:DEBUG:Remote version/idstring: SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.8
+2019-07-11 17:45:21,318:INFO:Connected (version 2.0, client OpenSSH_6.6.1p1)
+2019-07-11 17:45:21,329:DEBUG:kex algos:['curve25519-sha256@libssh.org', 'ecdh-sha2-nistp256', 'ecdh-sha2-nistp384', 'ecdh-sha2-nistp521', 'diffie-hellman-group-exchange-sha256', 'diffie-hellman-group-exchange-sha1', 'diffie-hellman-group14-sha1', 'diffie-hellman-group1-sha1'] server key:['ssh-rsa', 'ssh-dss'] client encrypt:['aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'arcfour256', 'arcfour128', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com', 'chacha20-poly1305@openssh.com', 'aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'aes192-cbc', 'aes256-cbc', 'arcfour', 'rijndael-cbc@lysator.liu.se'] server encrypt:['aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'arcfour256', 'arcfour128', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com', 'chacha20-poly1305@openssh.com', 'aes128-cbc', '3des-cbc', 'blowfish-cbc', 'cast128-cbc', 'aes192-cbc', 'aes256-cbc', 'arcfour', 'rijndael-cbc@lysator.liu.se'] client mac:['hmac-md5-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-ripemd160-etm@openssh.com', 'hmac-sha1-96-etm@openssh.com', 'hmac-md5-96-etm@openssh.com', 'hmac-md5', 'hmac-sha1', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] server mac:['hmac-md5-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-ripemd160-etm@openssh.com', 'hmac-sha1-96-etm@openssh.com', 'hmac-md5-96-etm@openssh.com', 'hmac-md5', 'hmac-sha1', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-ripemd160', 'hmac-ripemd160@openssh.com', 'hmac-sha1-96', 'hmac-md5-96'] client compress:['none', 'zlib@openssh.com'] server compress:['none', 'zlib@openssh.com'] client lang:[''] server lang:[''] kex follows?False
+2019-07-11 17:45:21,329:DEBUG:Kex agreed: ecdh-sha2-nistp256
+2019-07-11 17:45:21,329:DEBUG:HostKey agreed: ssh-rsa
+2019-07-11 17:45:21,329:DEBUG:Cipher agreed: aes128-ctr
+2019-07-11 17:45:21,329:DEBUG:MAC agreed: hmac-sha2-256
+2019-07-11 17:45:21,329:DEBUG:Compression agreed: none
+2019-07-11 17:45:21,396:DEBUG:kex engine KexNistp256 specified hash_algo <built-in function openssl_sha256>
+2019-07-11 17:45:21,397:DEBUG:Switch to new keys ...
+2019-07-11 17:45:21,398:DEBUG:Trying SSH key b'aa063ce29fc76364b195e17422d34acf'
+2019-07-11 17:45:21,454:DEBUG:userauth is OK
+2019-07-11 17:45:21,484:INFO:Authentication (publickey) successful!
+2019-07-11 17:45:39,931:DEBUG:Create temporary directory: /tmp/tmph28b_chg
+2019-07-11 17:45:40,190:DEBUG:starting thread (client mode): 0x4cc08630
+2019-07-11 17:45:40,190:DEBUG:Local version/idstring: SSH-2.0-paramiko_2.4.2
+2019-07-11 17:45:40,207:DEBUG:Remote version/idstring: SSH-2.0-OpenSSH_7.4p1 Debian-10+deb9u6
+2019-07-11 17:45:40,207:INFO:Connected (version 2.0, client OpenSSH_7.4p1)
+2019-07-11 17:45:40,226:DEBUG:kex algos:['curve25519-sha256', 'curve25519-sha256@libssh.org', 'ecdh-sha2-nistp256', 'ecdh-sha2-nistp384', 'ecdh-sha2-nistp521', 'diffie-hellman-group-exchange-sha256', 'diffie-hellman-group16-sha512', 'diffie-hellman-group18-sha512', 'diffie-hellman-group14-sha256', 'diffie-hellman-group14-sha1'] server key:['ssh-rsa', 'rsa-sha2-512', 'rsa-sha2-256', 'ecdsa-sha2-nistp256'] client encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] server encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] client mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] server mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] client compress:['none', 'zlib@openssh.com'] server compress:['none', 'zlib@openssh.com'] client lang:[''] server lang:[''] kex follows?False
+2019-07-11 17:45:40,226:DEBUG:Kex agreed: ecdh-sha2-nistp256
+2019-07-11 17:45:40,226:DEBUG:HostKey agreed: ecdsa-sha2-nistp256
+2019-07-11 17:45:40,226:DEBUG:Cipher agreed: aes128-ctr
+2019-07-11 17:45:40,226:DEBUG:MAC agreed: hmac-sha2-256
+2019-07-11 17:45:40,226:DEBUG:Compression agreed: none
+2019-07-11 17:45:40,300:DEBUG:kex engine KexNistp256 specified hash_algo <built-in function openssl_sha256>
+2019-07-11 17:45:40,300:DEBUG:Switch to new keys ...
+2019-07-11 17:45:40,301:DEBUG:Trying SSH key b'aa063ce29fc76364b195e17422d34acf'
+2019-07-11 17:45:40,378:DEBUG:userauth is OK
+2019-07-11 17:45:40,405:INFO:Authentication (publickey) successful!
+2019-07-11 17:55:11,820:DEBUG:Create temporary directory: /tmp/tmphwjcknop
+2019-07-11 17:55:11,820:DEBUG:Dump database
+2019-07-11 17:55:11,903:DEBUG:Backup done for tkmanager
+2019-07-11 17:55:12,002:DEBUG:starting thread (client mode): 0xcbe1b198
+2019-07-11 17:55:12,002:DEBUG:Local version/idstring: SSH-2.0-paramiko_2.4.2
+2019-07-11 17:55:12,023:DEBUG:Remote version/idstring: SSH-2.0-OpenSSH_7.4p1 Debian-10+deb9u6
+2019-07-11 17:55:12,023:INFO:Connected (version 2.0, client OpenSSH_7.4p1)
+2019-07-11 17:55:12,042:DEBUG:kex algos:['curve25519-sha256', 'curve25519-sha256@libssh.org', 'ecdh-sha2-nistp256', 'ecdh-sha2-nistp384', 'ecdh-sha2-nistp521', 'diffie-hellman-group-exchange-sha256', 'diffie-hellman-group16-sha512', 'diffie-hellman-group18-sha512', 'diffie-hellman-group14-sha256', 'diffie-hellman-group14-sha1'] server key:['ssh-rsa', 'rsa-sha2-512', 'rsa-sha2-256', 'ecdsa-sha2-nistp256'] client encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] server encrypt:['chacha20-poly1305@openssh.com', 'aes128-ctr', 'aes192-ctr', 'aes256-ctr', 'aes128-gcm@openssh.com', 'aes256-gcm@openssh.com'] client mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] server mac:['umac-64-etm@openssh.com', 'umac-128-etm@openssh.com', 'hmac-sha2-256-etm@openssh.com', 'hmac-sha2-512-etm@openssh.com', 'hmac-sha1-etm@openssh.com', 'umac-64@openssh.com', 'umac-128@openssh.com', 'hmac-sha2-256', 'hmac-sha2-512', 'hmac-sha1'] client compress:['none', 'zlib@openssh.com'] server compress:['none', 'zlib@openssh.com'] client lang:[''] server lang:[''] kex follows?False
+2019-07-11 17:55:12,042:DEBUG:Kex agreed: ecdh-sha2-nistp256
+2019-07-11 17:55:12,043:DEBUG:HostKey agreed: ecdsa-sha2-nistp256
+2019-07-11 17:55:12,043:DEBUG:Cipher agreed: aes128-ctr
+2019-07-11 17:55:12,043:DEBUG:MAC agreed: hmac-sha2-256
+2019-07-11 17:55:12,043:DEBUG:Compression agreed: none
+2019-07-11 17:55:12,116:DEBUG:kex engine KexNistp256 specified hash_algo <built-in function openssl_sha256>
+2019-07-11 17:55:12,117:DEBUG:Switch to new keys ...
+2019-07-11 17:55:12,120:DEBUG:Trying SSH key b'aa063ce29fc76364b195e17422d34acf'
+2019-07-11 17:55:12,196:DEBUG:userauth is OK
+2019-07-11 17:55:12,227:INFO:Authentication (publickey) successful!
+2019-07-11 17:55:12,228:DEBUG:[chan 0] Max packet in: 32768 bytes
+2019-07-11 17:55:12,282:DEBUG:Received global request "hostkeys-00@openssh.com"
+2019-07-11 17:55:12,282:DEBUG:Rejecting "hostkeys-00@openssh.com" global request from server.
+2019-07-11 17:55:12,341:DEBUG:[chan 0] Max packet out: 32768 bytes
+2019-07-11 17:55:12,342:DEBUG:Secsh channel 0 opened.
+2019-07-11 17:55:12,363:DEBUG:[chan 0] Sesch channel 0 request ok
+2019-07-11 17:55:12,384:INFO:[chan 0] Opened sftp connection (server version 3)
+2019-07-11 17:55:12,385:DEBUG:[chan 0] open(b'/tmp/dump_tkmanager_1562860511.sql.gz', 'wb')
+2019-07-11 17:55:12,406:DEBUG:[chan 0] open(b'/tmp/dump_tkmanager_1562860511.sql.gz', 'wb') -> 00000000
+2019-07-11 17:55:12,408:DEBUG:[chan 0] close(00000000)
+2019-07-11 17:55:12,447:DEBUG:[chan 0] stat(b'/tmp/dump_tkmanager_1562860511.sql.gz')
+2019-07-11 17:55:12,467:INFO:[chan 0] sftp session closed.
+2019-07-11 17:55:12,467:DEBUG:[chan 0] EOF sent (0)
