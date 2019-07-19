@@ -28,23 +28,23 @@
 * -h, --help          print this help message
 > **Description**:
 * -u, --update        update code
-> **Description**: Update the code (directory is seated in configuration file). 
-An backup of the directory is make before update.
-The procedure preserve the "whitelist" files setted in the configuration file 
+> **Description**: Update the code (directory is stored in configuration file). 
+A backup of the directory is made before update.
+The procedure preserves the "whitelist" files set in the configuration file 
 (comma separator for multiple file)
 * -b, --backup        backup code
 > **Description**:
 * -r, --restore       restore code from backup
 > **Description**:
 * -d, --dump          dump database
-> **Description**: permit to dump an specified database set on the configuration file. 
-After dump the file is automatic put on an remote server. 
-The file is an tar.gz, part of the name is the number of day of week.
-* -s, --restore-dump  restore database from dump
+> **Description**: permit to dump a specified database set on the configuration file. 
+After dump the file is automatically put on an remote server. 
+The file is a tar.gz, part of the name is the number of the day of the week.
+* -s, --restore-dump  restore database from last local dump
 > **Description**:
-* -c, --config        specified another config file
-> **Description**: permit to specified another configuration file.
-Absolute path is necessary. The file it must be an valid json format.  
+* -c, --config        specify another config file
+> **Description**: permit to specify another configuration file.
+Absolute path is necessary. The file must be in a valid json format.  
 
 # TODO
 
