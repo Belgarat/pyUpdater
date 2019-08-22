@@ -38,7 +38,7 @@ The procedure preserves the "whitelist" files set in the configuration file
 > **Description**:
 * -d, --dump          dump database
 > **Description**: permit to dump a specified database set on the configuration file. 
-After dump the file is automatically put on an remote server. 
+After dump the file is automatically put on a remote server. 
 The file is a tar.gz, part of the name is the number of the day of the week.
 * -s, --restore-dump  restore database from last local dump
 > **Description**:
